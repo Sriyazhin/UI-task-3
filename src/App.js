@@ -24,7 +24,7 @@ function App() {
       <div className='forcards'>
       {data.map((details, index) => {
         return (
-          <Cards key={index} imagename={details.imageName} titlename={details.title} nameinbutton='MORE' />
+          <Cards key={index} imagename={details.imageName} titlename={details.titleName} nameinbutton='MORE' />
         );
       })}
         
