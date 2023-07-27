@@ -1,8 +1,9 @@
 .full{
     background-color: #43256f;
-    height: 840px;
+    height: 830px;
+    overflow-y: auto;
 }
-.first{
+.fortitle{
     padding-top: 50px;
 }
 .lineone{
@@ -28,14 +29,14 @@
     margin-top: 15px;
 }
 
-.second{
+.forcards{
     display: flex;
     justify-content: center;
     position: relative;
     margin-left: 70px;
     margin-right: 70px;
     margin-top: 35px;
-    
+    flex-wrap: wrap;
 }
 .cardone{
     margin-right: 10px;
