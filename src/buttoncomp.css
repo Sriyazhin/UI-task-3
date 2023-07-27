@@ -1,0 +1,14 @@
+.btn{
+    margin-top: 24px;
+}
+.more{
+    width: 108px;
+    height: 40px;
+    background-color: gold;
+    border-style: none;
+    letter-spacing: 2px;
+    font-weight: 700;
+}
+.more:hover{
+    background-color: rgb(228, 194, 2);
+}

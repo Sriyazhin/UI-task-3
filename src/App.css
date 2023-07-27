@@ -1,0 +1,93 @@
+.full{
+    background-color: #43256f;
+    height: 840px;
+}
+.first{
+    padding-top: 50px;
+}
+.lineone{
+    display: flex;
+    justify-content: center;
+    letter-spacing: 3px;
+    font-weight: bold;
+    color: goldenrod;
+    font-size: 19px;
+}
+.linetwo{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    font-weight: 700;
+    font-size: 60px;
+    color: white;
+}
+.linethree{
+    border: 2px solid gold;
+    margin-left: 42.3%;
+    margin-right: 41.5%;
+    margin-top: 15px;
+}
+
+.second{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 35px;
+    
+}
+.cardone{
+    margin-right: 10px;
+    background-color: #6c49a1;
+    width: 400px;
+    height: 505px;
+}
+.subdivision{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.imageone{
+    margin-top: 25px;
+}
+.notesimage{
+    display: flex;
+    justify-content: center;
+}
+.heading{
+    font-size: 34px;
+    margin-top: 20px;
+    color: rgb(238, 172, 5);
+}
+.content{
+    margin-top: 15px;
+    font-style: italic;
+    line-height: 140%;
+    margin-right: 40px;
+    color: white;
+}
+.btn{
+    margin-top: 24px;
+}
+.more{
+    width: 108px;
+    height: 40px;
+    background-color: gold;
+    border-style: none;
+    letter-spacing: 2px;
+    font-weight: 700;
+}
+.linefour{
+    margin-left: 655px;
+    margin-top: 30px;
+    color: white;
+    font-size: 16px;
+}
+.lastline{
+    border: 1px solid gold;
+    width: 55px;
+    margin-left: 749px;
+    margin-top: 3px;
+    
+}
+
